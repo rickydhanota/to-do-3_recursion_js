@@ -4,9 +4,6 @@
 
 //rBinarySearch([4,5,6,8,12],5) = true;
 
-function rBinarySearch(arr, value){
-    var search = 
-}
 
 function rBinarySearch(arr, value) {
     var mid = Math.floor(arr.length/2);
